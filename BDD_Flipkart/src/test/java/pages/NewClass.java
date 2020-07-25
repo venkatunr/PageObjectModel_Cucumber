@@ -9,11 +9,4 @@ public class NewClass {
 		//reaction
 		//select
 	}
-	public void ms() {
-		//driver
-		//findelement
-		//action
-		//reaction
-		//select
-	}
 }
